@@ -1,5 +1,5 @@
 # logger
-![c](https://github.com/luyoungcn/resources/blob/master/images/c.svg) &amp; ![c++](https://github.com/luyoungcn/resources/blob/master/images/cpp.svg) wrapper of spdlog
+[![c](https://github.com/luyoungcn/resources/blob/master/images/c.svg)](https://github.com/luyoungcn/logger) &amp; [![c++](https://github.com/luyoungcn/resources/blob/master/images/cpp.svg)](https://github.com/luyoungcn/logger) wrapper of spdlog
 
 ## clone project
 git clone --recursive git@github.com:luyoungcn/logger.git
